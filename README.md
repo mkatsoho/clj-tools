@@ -1,4 +1,4 @@
-# clj-ping
+# clj-tools
 
 FIXME: description
 
@@ -21,7 +21,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar clj-ping-0.1.0-standalone.jar [args]
+    $ java -jar clj-tools-0.1.0-standalone.jar [args]
 
 ## Options
 

@@ -1,6 +1,6 @@
-(ns clj-ping.core-test
+(ns clj-tools.core-test
   (:require [clojure.test :refer :all]
-            [clj-ping.core :refer :all]))
+            [clj-tools.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

@@ -2,6 +2,17 @@
 
 FIXME: description
 
+## How to run
+
+```bash
+lein run    # run the default program
+
+lein run -m clj-tools.core      # run the specific program
+
+lein run -m clj-tools.ping      # run the specific program
+```
+
+
 ## Installation
 
 Download from http://example.com/FIXME.

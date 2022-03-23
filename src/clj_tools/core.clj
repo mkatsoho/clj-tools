@@ -1,4 +1,4 @@
-(ns clj-ping.core
+(ns clj-tools.core
   (:gen-class)
   (:require [clojure.java.shell :as sh]))
 
